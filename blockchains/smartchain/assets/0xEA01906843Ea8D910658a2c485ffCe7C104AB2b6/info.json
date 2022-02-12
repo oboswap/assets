@@ -1,8 +1,8 @@
 {
     "name": "Qtoken",
     "website": "https://qoneqt.com/",
-    "explorer": "https://etherscan.com/token/0xea01906843ea8d910658a2c485ffce7c104ab2b6",
-    "type": "Ethereum",
+    "explorer": "https://bscscan.com/token/0xea01906843ea8d910658a2c485ffce7c104ab2b6",
+    "type": "Smartchain",
     "symbol": "QTO",
     "decimals": 18,
     "status": "active",
